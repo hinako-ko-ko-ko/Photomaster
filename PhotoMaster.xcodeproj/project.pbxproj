@@ -292,6 +292,8 @@
 				DEVELOPMENT_TEAM = 6B7X9487DJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = PhotoMaster/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "写真を撮るためにカメラ起動";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "アプリ内で編集する画像をライブラリから呼び出す";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +322,8 @@
 				DEVELOPMENT_TEAM = 6B7X9487DJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = PhotoMaster/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "写真を撮るためにカメラ起動";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "アプリ内で編集する画像をライブラリから呼び出す";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
